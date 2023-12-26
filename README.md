@@ -17,6 +17,8 @@
   <li>Maintaining a portfolio of investments and track the growth (one stop for all investments)
       <ul>
       <li>Track the investments in a single place. The user needs to enter manualy what products they purchased and at what price point</li>
+      <li>We will show the daily profit/loss and create a custom alert when rating/price changes</li>
+      <li>Wishlist to get an alert when a stock falls below certain threshold</li>
     </ul>	
   </li>
     <li>User Login
